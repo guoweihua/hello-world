@@ -1,2 +1,7 @@
 # hello-world
-learning github
+
+Hello Humans!
+
+Hubot here. 
+I've had tacos on the moon.
+
